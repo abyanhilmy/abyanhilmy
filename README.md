@@ -43,7 +43,6 @@ Here are some of my academic and personal projects:
 | Stock Market Risk Analysis | Exploring financial data and market risk analysis. |
 | Statistical Analysis Projects | Applying statistical methods to real-world problems. |
 | Mathematical Modeling | Exploring mathematical concepts through computational approaches. |
-| AI Financial Tracker | Exploring AI-powered personal finance management. |
 
 *Project repositories and documentation will be updated as development progresses.*
 
